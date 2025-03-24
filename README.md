@@ -1,4 +1,4 @@
-# A 45-Year Overview of Aviation Accidents (1980-2025)
+# A 55-Year Overview of Aviation Accidents (1970-2025)
 ## • Introduction
 Aviation has long been one of the most significant modes of transportation in modern society, offering speed, efficiency, and global connectivity. However, despite continuous advancements in technology and safety protocols, aviation accidents still occur. 
 
@@ -15,7 +15,7 @@ https://www.ntsb.gov/Pages/home.aspx Data for this analysis was obtained from th
 
 ## • Research Questions
 
-## Part 1 - Global Overview of Aviation Accidents
+## Part 1 - Global Overview of Aviation Accidents in 1970-2025
 A high-level view of accident trends and severity levels.
 
 ![ttl](https://github.com/user-attachments/assets/147c887d-52d3-48da-a355-0bb2f86f4c9b)
