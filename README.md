@@ -3,7 +3,7 @@
 Aviation has long been one of the most significant modes of transportation in modern society, offering speed, efficiency, and global connectivity. However, despite continuous advancements in technology and safety protocols, aviation accidents still occur. This study explores the trends and patterns of aviation accidents over the past 45 years, with a special focus on the United States and commercial aviation.
 
 ## Data Source
-Data for this analysis was obtained from the National Transportation Safety Board (NTSB) – https://www.ntsb.gov/Pages/home.aspx an independent U.S. government agency responsible for investigating civil transportation accidents.
+https://www.ntsb.gov/Pages/home.aspx Data for this analysis was obtained from the National Transportation Safety Board (NTSB), an independent U.S. government agency responsible for investigating civil transportation accidents.
 
 ## Research Questions
 
