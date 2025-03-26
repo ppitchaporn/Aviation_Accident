@@ -16,8 +16,8 @@ Part 3 - Comparative Study of Commercial Aviation Accident Trends
 https://www.ntsb.gov/Pages/home.aspx Data for this analysis was obtained from the National Transportation Safety Board (NTSB), an independent U.S. government agency responsible for investigating civil transportation accidents.
 
 ## Research Questions
-1. Is the frequency of aviation accidents increasing or decreasing over time ?
-2. Human error remains the leading cause of aviation accidents ?
+1. Is the frequency of aviation accidents increasing or decreasing over time?
+2. Human error remains the leading cause of aviation accidents?
 3. Has the safety of commercial air travel improved based on fatal accident rates over time?
 
 ## • Part 1 - Overview of Global Aviation Accidents in 1970-2025
@@ -79,10 +79,10 @@ xxxx
 xxxx  
 
 ## • Summary of Findings
-1. Is the frequency of aviation accidents increasing or decreasing over time ?
+1. Is the frequency of aviation accidents increasing or decreasing over time?
 Ans:
 
-2. Human error remains the leading cause of aviation accidents ?
+2. Human error remains the leading cause of aviation accidents?
 Ans:
 
 3. Has the safety of commercial air travel improved based on fatal accident rates over time?
