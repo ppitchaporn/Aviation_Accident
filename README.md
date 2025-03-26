@@ -41,6 +41,7 @@ xxxx
 ***Figure 4: Probable Causes of Aviation Accidents***  
 xxxx  
 
+![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_5_top5_countries.png)
 ***Figure 5: Top 5 Countries by Injury Level***  
 xxxx  
 
