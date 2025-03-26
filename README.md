@@ -37,6 +37,7 @@ xxxx
 ***Figure 3: Global Distribution of Aviation Accidents by Continent***  
 xxxx  
 
+![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_4_probable_causes.png)
 ***Figure 4: Probable Causes of Aviation Accidents***  
 xxxx  
 
