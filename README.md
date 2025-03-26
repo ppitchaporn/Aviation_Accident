@@ -33,6 +33,7 @@ xxx
 ***Figure 2: Injury Severity in Aviation Accidents by Year***  
 xxxx  
 
+![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_3_accidents_continent.png)
 ***Figure 3: Global Distribution of Aviation Accidents by Continent***  
 xxxx  
 
