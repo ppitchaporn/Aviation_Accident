@@ -23,14 +23,14 @@ https://www.ntsb.gov/Pages/home.aspx Data for this analysis was obtained from th
 ## • Part 1 - Overview of Global Aviation Accidents in 1970-2025
 A high-level view of accident trends and severity levels.
 
-![ttl](https://github.com/user-attachments/assets/147c887d-52d3-48da-a355-0bb2f86f4c9b)
-
-***Figure 1: Trends in Aviation Accidents***  
+![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_1_accidents_trend.png) 
+***Figure 1: Trends in Aviation Accidents (1970-2025)***  
 xxx  
 •2001 – 9/11 attacks (likely followed by tighter aviation regulations)  
 •2020 – COVID-19 pandemic (massive drop in flights and thus accidents)  
 
-***Figure 2: Injury Level Breakdown in Aviation Accidents***  
+![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_2_injury_severity.png)
+***Figure 2: Injury Severity in Aviation Accidents by Year***  
 xxxx  
 
 ***Figure 3: Global Distribution of Aviation Accidents by Continent***  
