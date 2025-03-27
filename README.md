@@ -25,25 +25,47 @@ A high-level view of accident trends and severity levels.
 
 ![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_1_accidents_trend.png) 
 ***Figure 1: Trends in Aviation Accidents (1970-2025)***  
-xxx  
-•2001 – 9/11 attacks (likely followed by tighter aviation regulations)  
-•2020 – COVID-19 pandemic (massive drop in flights and thus accidents)  
+The figure shows a steady downward trend in aviation accidents over time, with the red horizontal line (≈952) highlighting the average number of accidents per year.
+-  	1970s–1980s: High accident rates, often above 1,500/year. This may reflects rapid aviation growth during that era, alongside less advanced safety regulations and technology.
+-  	1985s onward: Gradual decrease due to improvements in aircraft design, maintenance procedures, and the implementation of stricter safety protocols.
+-  	2001: A decline follows the 9/11 attacks, prompting stricter aviation security and regulations.
+-  	2020: Sharp drop during COVID-19 due to fewer flights.
+
 
 ![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_2_injury_severity.png)
 ***Figure 2: Injury Severity in Aviation Accidents by Year***  
-xxxx  
+The figure presents yearly aviation injury counts, divided by severity—fatal, serious, and minor. It highlights a consistent decrease in injuries, especially after the late 1970s. Fatal injuries consistently represent the largest share but show substantial declines alongside other categories, reflecting advancements in aviation safety, technology, and emergency responses.
+
+**1977-1979**  
+-  Tenerife Airport Disaster (1977): Two Boeing 747s collided on the runway in heavy fog, killing 583 people.
+-  Malaysian Airline System Flight 653 (1977): A hijacked Boeing 737 crashed, resulting in 100 fatalities.
+-  American Airlines Flight 191 (1979): A DC-10 crashed shortly after takeoff in Chicago, killing all 273 onboard.
+
+**1996**  
+-  Mid-Air Collision Over India : A Saudi Arabian Airlines Boeing 747 collided with a Kazakhstan Airlines Ilyushin Il-76, leading to 349 deaths.
+-  TWA Flight 800: A Boeing 747-100 exploded mid-air due to a fuel tank explosion, killing all 230 onboard.
+-   harkhi Dadri Mid-Air Collision: A Saudi Arabian Airlines Boeing 747 collided with a Kazakhstan Airlines Ilyushin Il-76, causing 349 deaths.
+
 
 ![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_3_accidents_continent.png)
 ***Figure 3: Global Distribution of Aviation Accidents by Continent***  
-xxxx  
+This figure shows the geographic distribution of aviation accidents across continents.  **North America and Europe** appear to have the highest concentration of accidents, especially in the United States and Western Europe.  **Africa and South America** also show significant incident clusters. **Asia and Oceania** show widespread but relatively less dense occurrences. Some points remain unclassified due to missing or ambiguous location data.
+
 
 ![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_4_probable_causes.png)
 ***Figure 4: Probable Causes of Aviation Accidents***  
-xxxx  
+This figure presents a textual analysis of the probable causes of aviation accidents using two visualizations:  
+
+**-  Word Cloud**: The word cloud highlights the most common terms found in accident reports' "Probable Cause" sections. The size of each word reflects how often it appears—larger words like pilot, failure, engine, maintain, and loss indicate they are mentioned frequently across reports.  
+**-  Bar Chart**: Shows the frequency of selected keywords, revealing that "pilot" is the most common cause-related term, followed by "engine", "control", "fuel", and "weather". These keywords represent critical areas contributing to aviation accidents, suggesting that human factors, mechanical issues, and environmental conditions are leading contributors.  
+
+Overall, this figure emphasizes the importance of pilot performance, equipment maintenance, and operational environment in aviation safety.
+
 
 ![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_5_top5_countries.png)
 ***Figure 5: Top 5 Countries by Injury Level***  
-xxxx  
+This figure shows the top five countries with the most aviation accidents by injury severity (fatal, serious, and minor). The U.S. leads with over 50,000 incidents, while Brazil, Mexico, Canada, and the Bahamas each report under 300. The logarithmic scale helps enable better comparison by compressing the wide range of values, making it easier to observe the injury level distribution across all five countries.
+
 
 ## • Part 2 - U.S. Aviation Accident Insights
 A focused analysis on aviation accidents occurring in the United States, including geographic distribution, injury severity and types of aircraft involved.
