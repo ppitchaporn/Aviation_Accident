@@ -1,10 +1,10 @@
-Abbrev,Definition,Additional info
+﻿Abbrev,Definition,Additional info
 ATC,Air Traffic Control,Service provided by ground based controllers to guide aircraft on the ground and in controlled airspace
 ATD,Aviation Training Device,Ground based training device fixed (e.g. computer)
 IMC,Instrument Meteorologic Conditions,"The weather is restricting your visibility, you need aircraft flight instruments to fly safe"
 VMC,Visual Meteorologic Conditions,Visibility and clouds are clear and allow you to fly the aircraft by visual reference
 IFR,Instrument Flight Rules,"Your flight is planned in controlled airspace according to local regulations for navigation, aircraft separation and weather minimums"
-VFR,Visual Flight Rules,"Your flight is planned without assistance from ATC for separation or navigation, either in controlled or non-controlled airspace. �Weather minimums are more restrictive."
+VFR,Visual Flight Rules,"Your flight is planned without assistance from ATC for separation or navigation, either in controlled or non-controlled airspace.  Weather minimums are more restrictive."
 FFS,Full Flight Simulator,Ground based training device with full motion
 FNPT,Flight Navigation and Procedure Trainer,Ground based training device
 FTD,Flight Training Device,Ground based training device with limited or without motion
