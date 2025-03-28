@@ -145,7 +145,7 @@ These incidents highlight where flight operations during takeoff and landing may
 ## • Part 3 - Comparative Study of Commercial Aviation Accident Trends
 A comparison of accident frequency relative to the number of commercial flights per year to assess risk per flight activity.
 
-***Figure 10: Total commercial Flight vs Accident Flight***  
+***Figure 10: Commercial Flight Trends***  
 xxxx  
 
 ***Figure 11: Figure 9: Accident Rate (5 Year moving average)***  
