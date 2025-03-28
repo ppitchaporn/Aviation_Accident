@@ -166,10 +166,10 @@ A comparison of accident frequency relative to the number of commercial flights 
 - Commercial aviation is now extremely safe, with fatal accidents becoming increasingly rare.
 - Improvements in technology, regulations, and pilot training likely played major roles in reducing both trends, but have had a more dramatic effect in commercial aviation.
 
-![image]
+![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/fatal_rate_MA.png?raw=true)
 ***Figure 14: Fatal injury rate for commercial flights in the US***  
 
-***Figure 14: Root Cause Analysis of Commercial Aviation Accidents***   
+***Figure 15: Root Cause Analysis of Commercial Aviation Accidents***   
 
 ## • Summary of Findings
 1. Is the frequency of aviation accidents increasing or decreasing over time?
