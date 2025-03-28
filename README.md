@@ -147,15 +147,26 @@ A comparison of accident frequency relative to the number of commercial flights 
 
 ![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/flight_trends.png?raw=true)  
 ***Figure 11: US Commercial Flight Trends***  
-  Before 2020, commercial flight numbers were relatively stable, peaking at around 11.3 million and gradually declining to about 10 million flights per year. In 2020, the industry experienced a dramatic drop to 5.8 million flights due to the global impact of the COVID-19 pandemic. After 2020, flight activity steadily recovered, reaching 9.7 million flights by 2024, showing strong industry resilience though still slightly below pre-pandemic levels.
+- Before 2020: Relatively stable with a gradual decline; peaked at approximately 11.3M and leveled off around 10M flights annually.
+- 2020: Significant decrease to 5.8M flights, due to the COVID-19 pandemic.
+- After 2020: Consistent recovery observed, with flight numbers rising to 9.7M by 2024.
 
 ![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/passengers_trends.png?raw=true)
 ***Figure 12: US Passengers Trends***
+- Before 2020: Steady growth from 701M in 2003 to 1053M in 2019, with minor fluctuations.
+- 2020: Sharp drop to 401M passengers due to the COVID-19 pandemic.
+- After 2020: Strong rebound, reaching 1106M passengers by 2024, surpassing pre-pandemic levels.
 
+  Although flight volume hasn’t fully returned to pre-pandemic levels, passenger numbers have exceeded them. This suggests higher passenger load per flight, indicating better airline efficiency or a shift toward fuller, larger aircraft post-COVID.
+  
 ![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/fatal_accident_MA.png?raw=true)
 ***Figure 13: Fatal Accidents in Commercial and Non-Commercial Aviation (Moving Average)***  
+- The safety gap between commercial and non-commercial flights has widened significantly over the past few decades.
+- Non-commercial aviation, while improving, still poses greater safety risks and accounts for most fatalities.
+- Commercial aviation is now extremely safe, with fatal accidents becoming increasingly rare.
+- Improvements in technology, regulations, and pilot training likely played major roles in reducing both trends, but have had a more dramatic effect in commercial aviation.
 
-![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/fatal_rate_MA.png?raw=true)
+![image]
 ***Figure 14: Fatal injury rate for commercial flights in the US***  
 
 ***Figure 14: Root Cause Analysis of Commercial Aviation Accidents***   
