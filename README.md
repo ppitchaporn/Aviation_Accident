@@ -71,19 +71,30 @@ This figure shows the top five countries with the most aviation accidents by inj
 A focused analysis on aviation accidents occurring in the United States, including geographic distribution, injury severity and types of aircraft involved.
 
 ***Part 2: U.S. Aviation Accident Insights***  
-xxxx  
+
 
 ***Figure 6: Geographic Distribution of Aviation Accidents in U.S. States***  
-xxxx
 
-***Figure 7: Top 5 U.S. States by Injury Level***  
-xxxx
+![Geographic Distribution of Aviation Accidents in the US (1970–2025)](https://github.com/user-attachments/assets/0e88572d-e482-4261-acbb-7ba90b3df88d)
+
+***Figure 7: Top 5 U.S. States by Damage Types***  
+
+![Aircraft Damage Types by Flight Type (US 1970–2025)](https://github.com/user-attachments/assets/c1e6ec86-2406-452f-babc-f7ba8d914bb7)
+
+![Aircraft Damage (Top 10 US States by Flight Type](https://github.com/user-attachments/assets/eee94b4a-a1dc-4964-b197-b9fc0916d916)
 
 ***Figure 8: U.S. Aviation Accidents by Weather Condition***  
-xxxx
 
-***Figure 9: Top 10 Aircraft Makes in U.S. Aviation Accidents***  
-xxxx
+![Weather Conditions in US Aviation Accidents](https://github.com/user-attachments/assets/dcc4be7b-6ef8-414a-b794-0d1a44da6443)
+
+***Figure 9: Top 5 Aircraft Manufacturers in Pilot-Related Accidents (US Commercial Flights)***  
+
+![Top 5 Aircraft Manufacturers in Pilot-Related Accidents (US Commercial Flights)](https://github.com/user-attachments/assets/a9882d4f-68c6-4ff5-8ef7-3b7b2fb1328b)
+
+***Figure 10: Top 5 Airports with Most Takeoff and Landing Accidents (Commercial Flights)***  
+
+![Top 5 US Airports with Most Takeoff and Landing Accidents (Commercial Flights)](https://github.com/user-attachments/assets/66aa55d9-f150-4a4d-878f-6d0bf1b9c598)
+
 
 ## • Part 3 - Comparative Study of Commercial Aviation Accident Trends
 A comparison of accident frequency relative to the number of commercial flights per year to assess risk per flight activity.
