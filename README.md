@@ -145,20 +145,20 @@ These incidents highlight where flight operations during takeoff and landing may
 ## • Part 3 - Comparative Study of Commercial Aviation Accident Trends
 A comparison of accident frequency relative to the number of commercial flights per year to assess risk per flight activity.
 
-***Figure 10: Commercial Flight Trends***  
-xxxx  
+![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/flight_trends.png?raw=true)  
+***Figure 11: US Commercial Flight Trends***  
+  Before 2020, commercial flight numbers were relatively stable, peaking at around 11.3 million and gradually declining to about 10 million flights per year. In 2020, the industry experienced a dramatic drop to 5.8 million flights due to the global impact of the COVID-19 pandemic. After 2020, flight activity steadily recovered, reaching 9.7 million flights by 2024, showing strong industry resilience though still slightly below pre-pandemic levels.
 
-***Figure 11: Figure 9: Accident Rate (5 Year moving average)***  
-xxxx  
+![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/passengers_trends.png?raw=true)
+***Figure 12: US Passengers Trends***
 
-***Figure 12: Total passenger***  
-xxxx  
+![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/fatal_accident_MA.png?raw=true)
+***Figure 13: Fatal Accidents in Commercial and Non-Commercial Aviation (Moving Average)***  
 
-***Figure 13: Fatal Rate***  
-xxxx  
+![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/fatal_rate_MA.png?raw=true)
+***Figure 14: Fatal injury rate for commercial flights in the US***  
 
-***Figure 14: Root Cause Analysis of Commercial Aviation Accidents***  
-xxxx  
+***Figure 14: Root Cause Analysis of Commercial Aviation Accidents***   
 
 ## • Summary of Findings
 1. Is the frequency of aviation accidents increasing or decreasing over time?
