@@ -1,4 +1,4 @@
-A 55-Year Overview of Aviation Accidents (1970 - 2025)  
+55 Years of Aviation Accidents Analysis (1970 - 2025)  
 [DADS5001: Data Analytics and Data Science Tools and Programming]
 =======
 ## Introduction
