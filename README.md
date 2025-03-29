@@ -172,7 +172,11 @@ A comparison of accident frequency relative to the number of commercial flights 
 - 2020: Sharp drop to 401M passengers due to the COVID-19 pandemic.
 - After 2020: Strong rebound, reaching 1106M passengers by 2024, surpassing pre-pandemic levels.
 
-  Although flight volume hasn’t fully returned to pre-pandemic levels, passenger numbers have exceeded them. This suggests higher passenger load per flight, indicating better airline efficiency or a shift toward fuller, larger aircraft post-COVID.
+**Key Insights**
+- 2005 - 2010: Flight numbers dropped due to the Great Recession and global financial crisis.
+- 2010 - 2020: Flights remained flat or declined, while passenger numbers continued rising, indicating more passengers per flight and better efficiency.
+- 2020: Sharp drop in both flights and passengers due to the COVID-19 pandemic.
+- 2021 - 2024: Gradual recovery as flights and passenger numbers rebounded post-pandemic.
   
 ![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/fatal_accident_MA.png?raw=true)
 ***Figure 13: Fatal Accidents in Commercial and Non-Commercial Aviation (Moving Average)***  
