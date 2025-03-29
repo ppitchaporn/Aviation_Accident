@@ -184,13 +184,13 @@ let's compare this to the probability of winning a 6-digit lottery in Thailand:
 - Recent fatality rate for flights: approximately 0.0001–0.00001 per million passengers, or even lower. 
 
 ## • Summary of Findings
-1. Is the frequency of aviation accidents increasing or decreasing over time?
+1. Is the frequency of aviation accidents increasing or decreasing over time? <br>
 **Answer:** Aviation accidents have steadily declined from over 1,500 per year in the 1970s to fewer than 500 in recent years. 
 
-3. Human error remains the leading cause of aviation accidents?
+3. Human error remains the leading cause of aviation accidents? <br>
 **Answer:** Human error, especially pilot-related factors, remains the primary cause of aviation accidents, as reflected by frequent mentions of pilot errors and operational mistakes in accident reports. 
 
-5. Has the safety of commercial air travel improved based on fatal accident rates over time?
+5. Has the safety of commercial air travel improved based on fatal accident rates over time? <br>
 **Answer:** The safety of commercial air travel has greatly improved, with fatal accidents sharply declining over time, as shown in Part 3, widening the safety gap with non-commercial flights despite increasing flight and passenger volumes.
 
 In conclusion, this study identified a clear decline in aviation accidents and injury severity over the past five decades, largely driven by advancements in technology, regulations, and safety practices. However, human error—particularly pilot-related factors—remains the primary cause of accidents. While commercial aviation has become significantly safer, non-commercial flight operations and human factors continue to require further attention and improvement. To put this into perspective, the likelihood of experiencing a fatal incident on a commercial flight in the US is now so low that it's statistically less than the odds of winning the Thai 6-digit lottery—underscoring the exceptional level of safety modern air travel offers.
