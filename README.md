@@ -20,7 +20,7 @@ https://www.ntsb.gov/Pages/home.aspx Data for this analysis was obtained from th
 3. Has the safety of commercial air travel improved based on fatal accident rates over time?
 
 ## • Part 1 - Overview of Global Aviation Accidents in 1970-2025
-A high-level view of accident trends and severity levels.
+This section provides an overall view of aviation accidents over the past five decades.
 
 ![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_1_accidents_trend.png) 
 ***Figure 1: Trends in Aviation Accidents (1970-2025)***  
