@@ -13,7 +13,13 @@ Part 2 - U.S. Aviation Accident Insights
 Part 3 - Comparative Study of Commercial Aviation Accident Trends
 
 ## Data Source
-https://www.ntsb.gov/Pages/home.aspx Data for this analysis was obtained from the National Transportation Safety Board (NTSB), an independent U.S. government agency responsible for investigating civil transportation accidents.
+- National Transportation Safety Board (NTSB)
+🔗 https://www.ntsb.gov/Pages/home.aspx
+Data for this analysis was obtained from the National Transportation Safety Board (NTSB), an independent U.S. government agency that investigates civil transportation accidents, including aviation incidents.
+
+- Bureau of Transportation Statistics (BTS) – TranStats Database
+🔗 https://www.transtats.bts.gov/Data_Elements.aspx?Data=1
+Passenger and flight data, including international and domestic U.S. flights, were sourced from the Bureau of Transportation Statistics (BTS), which provides comprehensive datasets on airline performance, traffic, and capacity.
 
 ## Research Questions
 1. Is the frequency of aviation accidents increasing or decreasing over time?
