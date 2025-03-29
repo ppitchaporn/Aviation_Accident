@@ -161,13 +161,12 @@ This plot focuses on non-commercial aviation activity and related accidents at s
 ## • Part 3 - Comparative Study of U.S. Commercial Aviation Accident Trends
 A comparison of accident frequency relative to the number of commercial flights per year to assess risk per flight activity.
 
-![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/flight_trends.png?raw=true)  
+![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/commercial_trends.png?raw=true)  
 ***Figure 11: U.S. Commercial Flight Trends***  
 - Before 2020: Relatively stable with a gradual decline; peaked at approximately 11.3M and leveled off around 10M flights annually.
 - 2020: Significant decrease to 5.8M flights, due to the COVID-19 pandemic.
 - After 2020: Consistent recovery observed, with flight numbers rising to 9.7M by 2024.
 
-![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/passengers_trends.png?raw=true)
 ***Figure 12: U.S. Passengers Trends***
 - Before 2020: Steady growth from 701M in 2003 to 1053M in 2019, with minor fluctuations.
 - 2020: Sharp drop to 401M passengers due to the COVID-19 pandemic.
