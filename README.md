@@ -96,6 +96,7 @@ This bar chart highlights the states with the most aircraft damage incidents.
 
 ![Figure7-2](https://github.com/user-attachments/assets/53732c4a-d6c3-4999-82c3-90d5a6d15a84)
 ***Figure 7-2: Aircraft Damage Types and Injury Severity Levels in U.S. Flights*** 
+
 This dual chart explores both damage categories and injury severity.
 - Substantial and destroyed damage types dominate.
 - Again, non-commercial flights lead significantly in both categories.
