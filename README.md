@@ -46,7 +46,6 @@ The figure presents yearly aviation injury counts, divided by severity—fatal, 
 **1996**  
 -  Mid-Air Collision Over India : A Saudi Arabian Airlines Boeing 747 collided with a Kazakhstan Airlines Ilyushin Il-76, leading to 349 deaths.
 -  TWA Flight 800: A Boeing 747-100 exploded mid-air due to a fuel tank explosion, killing all 230 onboard.
--   harkhi Dadri Mid-Air Collision: A Saudi Arabian Airlines Boeing 747 collided with a Kazakhstan Airlines Ilyushin Il-76, causing 349 deaths.
 
 **Which continents report the highest number of aviation accidents?**
 
