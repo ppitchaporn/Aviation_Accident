@@ -67,7 +67,7 @@ This figure shows the top five countries with the most aviation accidents by inj
 
 
 ## • Part 2 - U.S. Aviation Accident Insights
-A focused analysis on aviation accidents occurring in the United States, including geographic distribution, injury severity and types of aircraft involved.
+This section explores where, when, and how aviation accidents happen in the United States, with a focus on factors like geography, weather, flight phase, and aircraft type.
 
 ***Part 2: U.S. Aviation Accident Insights***  
 What can we learn from aviation accidents across the United States?
@@ -81,11 +81,13 @@ This map provides a snapshot of aviation accident patterns between 1970 and 2025
 - States like California, Texas, Florida, and Alaska report the highest number of accidents.
 - Central and northeastern states tend to show much lower counts.
 
+These high numbers may reflect more flight activity and larger general aviation fleets in populous or tourism-heavy states like California and Florida.
 
 **What patterns stand out?**
 
 ![Figure7-1](https://github.com/user-attachments/assets/73206a8a-f0d5-4bbe-a3f0-8baa2e652019)
 ***Figure 7-1: Top 10 U.S. States by Aircraft Damage***  
+This bar chart highlights the states with the most aircraft damage incidents.
 - Most of these incidents involve non-commercial flights, with Alaska showing a relatively higher count for commercial ones.
 
 
@@ -93,6 +95,7 @@ This map provides a snapshot of aviation accident patterns between 1970 and 2025
 
 ![Figure7-2](https://github.com/user-attachments/assets/53732c4a-d6c3-4999-82c3-90d5a6d15a84)
 ***Figure 7-2: Aircraft Damage Types and Injury Severity Levels in U.S. Flights*** 
+This dual chart explores both damage categories and injury severity.
 - Substantial and destroyed damage types dominate.
 - Again, non-commercial flights lead significantly in both categories.
 
@@ -105,8 +108,9 @@ This map provides a snapshot of aviation accident patterns between 1970 and 2025
 
 ![Figure8](https://github.com/user-attachments/assets/5c969774-5b38-4c69-a231-e861c0a74997)
 ***Figure 8: U.S. Aviation Accidents by Weather Condition***  
+This chart shows how accidents break down by weather and flight condition.
 
-## Abbreviations Explained
+**Abbreviations Explained**
 
 | Abbreviation | Meaning                        | Description                                                                 |
 |--------------|--------------------------------|-----------------------------------------------------------------------------|
@@ -116,25 +120,35 @@ This map provides a snapshot of aviation accident patterns between 1970 and 2025
 | **IFR**      | Instrument Flight Rules         | Flying under instrument navigation, usually in poor weather or low visibility. |
 
 - Surprisingly, most accidents occur under VMC (Visual Meteorological Conditions) — clear skies and good visibility.
-
+  
+**Why it matters:**
+Accidents happening in good weather suggest that visibility isn’t the main factor — rather, it may be pilot error, mechanical failure, or operational misjudgment during routine conditions.
 
 **Which aircraft manufacturers appear most in pilot-related accidents?**
 
 ![Figure9](https://github.com/user-attachments/assets/ac98d630-fe14-4e9f-9b6e-ba80ae27bd88)
 ***Figure 9: Top 5 Aircraft Manufacturers in Pilot-Related Accidents (U.S. Commercial Flights)***  
+This chart ranks manufacturers by their involvement in pilot-related commercial accidents.
 - Cessna stands out with the highest number of pilot-related accidents in U.S. commercial flights.
 - Piper and Beech follow at a distance, with Boeing and De Havilland also making the list.
 
+**Why Cessna?**
+Cessna aircraft are widely used in training, private flying, and smaller commercial ops — so their high count likely reflects exposure more than a design flaw.
 
 **Do different airport face different risks?**
 
 ![Figure10-1](https://github.com/user-attachments/assets/1521bdaa-79a6-4340-b569-fa4b8439c266)
 ***Figure 10-1: Top 5 Airports with Most Takeoff and Landing Accidents (Commercial Flights)***  
+This chart visualizes accident counts at key airports during takeoff and landing phases in commercial aviation.
 
 ![Figure10-2](https://github.com/user-attachments/assets/53054067-1118-4f40-8bff-43c1bbd25c0e)
 ***Figure 10-2: Top 5 Airports with Most Takeoff and Landing Accidents (์Non-Commercial Flights)***  
+This plot focuses on non-commercial aviation activity and related accidents at smaller airports.
 - Commercial flights show accidents clustered in regional hubs like Bethel (Alaska) and LaGuardia (New York)—often with fairly balanced counts between takeoff and landing.
 - Non-commercial flights, however, concentrate around smaller general aviation airports like Big Bear City, Camarillo, and Catalina (California), with landing accidents more frequent than takeoff.
+
+**Insight:** Non-commercial airports have significantly more landing accidents, possibly due to less advanced runway infrastructure, pilot training levels, or traffic control limitations.
+**Contrast:** Commercial airports show fewer incidents, likely due to stricter procedures, better maintenance, and professional pilots.
 
 ## • Part 3 - Comparative Study of Commercial Aviation Accident Trends
 A comparison of accident frequency relative to the number of commercial flights per year to assess risk per flight activity.
