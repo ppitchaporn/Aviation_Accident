@@ -14,8 +14,10 @@ Part 3 - Comparative Study of Commercial Aviation Accident Trends
 
 ## Data Source
 - National Transportation Safety Board (NTSB)
-🔗 https://www.ntsb.gov/Pages/home.aspx
-Data for this analysis was obtained from the National Transportation Safety Board (NTSB), an independent U.S. government agency that investigates civil transportation accidents, including aviation incidents.
+🔗 https://www.ntsb.gov/Pages/home.aspx an independent U.S. government agency that investigates civil transportation accidents, including aviation incidents. Due to the large volume of records in the dataset, specific filters were applied to focus on key aviation accident aspects:<br>
+&nbsp;&nbsp;&nbsp; - Event = ‘ACC’ to include significant accidents involving damage, injury, or loss of life. <br>
+&nbsp;&nbsp;&nbsp; - Highest Injury Severity = ‘Fatal, Serious, Minor’ to emphasize events with human injuries. <br>
+&nbsp;&nbsp;&nbsp; - Aircraft Type = ‘Air’ (fixed-wing) to exclude balloons, gliders, helicopters, and others. <br>
 
 - Bureau of Transportation Statistics (BTS) – TranStats Database
 🔗 https://www.transtats.bts.gov/Data_Elements.aspx?Data=1
