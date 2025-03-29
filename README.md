@@ -72,13 +72,15 @@ A focused analysis on aviation accidents occurring in the United States, includi
 ***Part 2: U.S. Aviation Accident Insights***  
 What can we learn from aviation accidents across the United States?
 
+
 **Where in the U.S. do aviation accidents occur most often?**
 
 ![Figure6](https://github.com/user-attachments/assets/5066809d-4351-4802-aeea-691151b1d4d9)
 ***Figure 6: Geographic Distribution of Aviation Accidents in U.S. States***  
-This map provides a snapshot of aviation accident patterns between 1970 and 2025, helping us explore where accidents are most common—and sparking questions about why.
+This map provides a snapshot of aviation accident patterns between 1970 and 2025, helping us explore where accidents are most common.
 - States like California, Texas, Florida, and Alaska report the highest number of accidents.
 - Central and northeastern states tend to show much lower counts.
+
 
 **What patterns stand out?**
 
@@ -86,15 +88,18 @@ This map provides a snapshot of aviation accident patterns between 1970 and 2025
 ***Figure 7-1: Top 10 U.S. States by Aircraft Damage***  
 - Most of these incidents involve non-commercial flights, with Alaska showing a relatively higher count for commercial ones.
 
+
 **What kind of damage is most common?**
 
 ![Figure7-2](https://github.com/user-attachments/assets/53732c4a-d6c3-4999-82c3-90d5a6d15a84)
 ***Figure 7-2: Aircraft Damage Types and Injury Severity Levels in U.S. Flights*** 
 - Substantial and destroyed damage types dominate.
 - Again, non-commercial flights lead significantly in both categories.
+
 **How severe are these accidents?**
 - Fatal injuries are the most reported, especially in non-commercial operations.
 - Commercial flights show far fewer incidents in every category.
+
 
 **What kind of weather are most accidents happening in?**
 
@@ -113,12 +118,14 @@ Flying by instruments under regulated, controlled airspace—especially in poor 
 
 - Surprisingly, most accidents occur under VMC (Visual Meteorological Conditions) — clear skies and good visibility.
 
+
 **Which aircraft manufacturers appear most in pilot-related accidents?**
 
 ![Figure9](https://github.com/user-attachments/assets/ac98d630-fe14-4e9f-9b6e-ba80ae27bd88)
 ***Figure 9: Top 5 Aircraft Manufacturers in Pilot-Related Accidents (U.S. Commercial Flights)***  
 - Cessna stands out with the highest number of pilot-related accidents in U.S. commercial flights.
 - Piper and Beech follow at a distance, with Boeing and De Havilland also making the list.
+
 
 **Do different airport face different risks?**
 
