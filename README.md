@@ -106,15 +106,14 @@ This map provides a snapshot of aviation accident patterns between 1970 and 2025
 ![Figure8](https://github.com/user-attachments/assets/5c969774-5b38-4c69-a231-e861c0a74997)
 ***Figure 8: U.S. Aviation Accidents by Weather Condition***  
 
-**Abbreviations Explained**
-**VMC** – Visual Meteorological Conditions
-Clear skies and good visibility; pilots fly by sight.
-**VFR** – Visual Flight Rules
-Flying by visual reference, typically in good weather, without ATC guidance.
-**IMC** – Instrument Meteorological Conditions
-Low visibility; pilots must navigate using flight instruments.
-**IFR** – Instrument Flight Rules
-Flying by instruments under regulated, controlled airspace—especially in poor weather.
+## Abbreviations Explained
+
+| Abbreviation | Meaning                        | Description                                                                 |
+|--------------|--------------------------------|-----------------------------------------------------------------------------|
+| **VMC**      | Visual Meteorological Conditions | Clear skies and good visibility; pilots fly by sight.                        |
+| **VFR**      | Visual Flight Rules             | Flying by visual reference, typically in good weather, without ATC guidance. |
+| **IMC**      | Instrument Meteorological Conditions | Low visibility; pilots must navigate using flight instruments.              |
+| **IFR**      | Instrument Flight Rules         | Flying under instrument navigation, usually in poor weather or low visibility. |
 
 - Surprisingly, most accidents occur under VMC (Visual Meteorological Conditions) — clear skies and good visibility.
 
