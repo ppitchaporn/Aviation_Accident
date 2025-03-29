@@ -69,10 +69,6 @@ This figure shows the top five countries with the most aviation accidents by inj
 ## • Part 2 - U.S. Aviation Accident Insights
 This section explores where, when, and how aviation accidents happen in the United States, with a focus on factors like geography, weather, flight phase, and aircraft type.
 
-***Part 2: U.S. Aviation Accident Insights***  
-What can we learn from aviation accidents across the United States?
-
-
 **Where in the U.S. do aviation accidents occur most often?**
 
 ![Figure6](https://github.com/user-attachments/assets/5066809d-4351-4802-aeea-691151b1d4d9)
