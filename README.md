@@ -181,9 +181,7 @@ A comparison of accident frequency relative to the number of commercial flights 
 The fatal injury rate for commercial flights in the US has drastically decreased over time, especially after 2013, making air travel extremely safe in recent years.
 let's compare this to the probability of winning a 6-digit lottery in Thailand:
 - Odds of winning the Thai Government Lottery (all 6 digits): 1 in 1,000,000
-- Recent fatality rate for flights: approximately 0.0001–0.00001 per million passengers, or even lower.
-
-***Figure 15: Root Cause Analysis of Commercial Aviation Accidents***   
+- Recent fatality rate for flights: approximately 0.0001–0.00001 per million passengers, or even lower. 
 
 ## • Summary of Findings
 1. Is the frequency of aviation accidents increasing or decreasing over time?
