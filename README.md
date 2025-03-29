@@ -22,7 +22,7 @@ https://www.ntsb.gov/Pages/home.aspx Data for this analysis was obtained from th
 ## • Part 1 - Overview of Global Aviation Accidents in 1970-2025
 This section provides an overall view of aviation accidents over the past five decades.
 
-![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_1_accidents_trend.png) 
+![Figure 1](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_1_accidents_trend.png) 
 ***Figure 1: Trends in Aviation Accidents (1970-2025)***  
 The figure shows a steady downward trend in aviation accidents over time, with the red horizontal line (≈952) highlighting the average number of accidents per year.
 -  	1970s–1980s: High accident rates, often above 1,500/year. This may reflects rapid aviation growth during that era, alongside less advanced safety regulations and technology.
@@ -31,7 +31,9 @@ The figure shows a steady downward trend in aviation accidents over time, with t
 -  	2020: Sharp drop during COVID-19 due to fewer flights.
 
 
-![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_2_injury_severity.png)
+**What is the overall trend in injury severity in aviation accidents from 1970 to 2025?**
+
+![Figure 2](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_2_injury_severity.png)
 ***Figure 2: Injury Severity in Aviation Accidents by Year***  
 The figure presents yearly aviation injury counts, divided by severity—fatal, serious, and minor. It highlights a consistent decrease in injuries, especially after the late 1970s. Fatal injuries consistently represent the largest share but show substantial declines alongside other categories, reflecting advancements in aviation safety, technology, and emergency responses.
 
@@ -45,13 +47,15 @@ The figure presents yearly aviation injury counts, divided by severity—fatal, 
 -  TWA Flight 800: A Boeing 747-100 exploded mid-air due to a fuel tank explosion, killing all 230 onboard.
 -   harkhi Dadri Mid-Air Collision: A Saudi Arabian Airlines Boeing 747 collided with a Kazakhstan Airlines Ilyushin Il-76, causing 349 deaths.
 
+**Which continents report the highest number of aviation accidents?**
 
-![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_3_accidents_continent.png)
+![Figure 3](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_3_accidents_continent.png)
 ***Figure 3: Global Distribution of Aviation Accidents by Continent***  
 This figure shows the geographic distribution of aviation accidents across continents.  **North America and Europe** appear to have the highest concentration of accidents, especially in the United States and Western Europe.  **Africa and South America** also show significant incident clusters. **Asia and Oceania** show widespread but relatively less dense occurrences. Some points remain unclassified due to missing or ambiguous location data.
 
+**What are the most frequently mentioned probable causes of aviation accidents?**
 
-![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_4_probable_causes.png)
+![Figure 4](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_4_probable_causes.png)
 ***Figure 4: Probable Causes of Aviation Accidents***  
 This figure presents a textual analysis of the probable causes of aviation accidents using two visualizations:  
 
@@ -60,8 +64,9 @@ This figure presents a textual analysis of the probable causes of aviation accid
 
 Overall, this figure emphasizes the importance of pilot performance, equipment maintenance, and operational environment in aviation safety.
 
+**Which country has the highest number of aviation accidents?**
 
-![image](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_5_top5_countries.png)
+![Figure 5](https://github.com/PTUNTUK/Aviation_Accident_Graphs/blob/main/figure_5_top5_countries.png)
 ***Figure 5: Top 5 Countries by Injury Level***  
 This figure shows the top five countries with the most aviation accidents by injury severity (fatal, serious, and minor). The U.S. leads with over 50,000 incidents, while Brazil, Mexico, Canada, and the Bahamas each report under 300. The logarithmic scale helps enable better comparison by compressing the wide range of values, making it easier to observe the injury level distribution across all five countries.
 
@@ -131,14 +136,14 @@ This chart ranks manufacturers by their involvement in pilot-related commercial 
 **Why Cessna?**
 Cessna aircraft are widely used in training, private flying, and smaller commercial ops — so their high count likely reflects exposure more than a design flaw.
 
-**Do different airport face different risks?**
+**Do different airports face different risks?**
 
 ![Figure10-1](https://github.com/user-attachments/assets/1521bdaa-79a6-4340-b569-fa4b8439c266)
 ***Figure 10-1: Top 5 Airports with Most Takeoff and Landing Accidents (Commercial Flights)***  
 This chart visualizes accident counts at key airports during takeoff and landing phases in commercial aviation.
 
 ![Figure10-2](https://github.com/user-attachments/assets/53054067-1118-4f40-8bff-43c1bbd25c0e)
-***Figure 10-2: Top 5 Airports with Most Takeoff and Landing Accidents (์Non-Commercial Flights)***  
+***Figure 10-2: Top 5 Airports with Most Takeoff and Landing Accidents (Non-Commercial Flights)***  
 This plot focuses on non-commercial aviation activity and related accidents at smaller airports.
 - Commercial flights show accidents clustered in regional hubs like Bethel (Alaska) and LaGuardia (New York)—often with fairly balanced counts between takeoff and landing.
 - Non-commercial flights, however, concentrate around smaller general aviation airports like Big Bear City, Camarillo, and Catalina (California), with landing accidents more frequent than takeoff.
@@ -146,17 +151,17 @@ This plot focuses on non-commercial aviation activity and related accidents at s
 **Insight:** Non-commercial airports have significantly more landing accidents, possibly due to less advanced runway infrastructure, pilot training levels, or traffic control limitations.
 **Contrast:** Commercial airports show fewer incidents, likely due to stricter procedures, better maintenance, and professional pilots.
 
-## • Part 3 - Comparative Study of Commercial Aviation Accident Trends
+## • Part 3 - Comparative Study of U.S. Commercial Aviation Accident Trends
 A comparison of accident frequency relative to the number of commercial flights per year to assess risk per flight activity.
 
 ![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/flight_trends.png?raw=true)  
-***Figure 11: US Commercial Flight Trends***  
+***Figure 11: U.S. Commercial Flight Trends***  
 - Before 2020: Relatively stable with a gradual decline; peaked at approximately 11.3M and leveled off around 10M flights annually.
 - 2020: Significant decrease to 5.8M flights, due to the COVID-19 pandemic.
 - After 2020: Consistent recovery observed, with flight numbers rising to 9.7M by 2024.
 
 ![image](https://github.com/suparerkjk/Commercial-Accident/blob/main/passengers_trends.png?raw=true)
-***Figure 12: US Passengers Trends***
+***Figure 12: U.S. Passengers Trends***
 - Before 2020: Steady growth from 701M in 2003 to 1053M in 2019, with minor fluctuations.
 - 2020: Sharp drop to 401M passengers due to the COVID-19 pandemic.
 - After 2020: Strong rebound, reaching 1106M passengers by 2024, surpassing pre-pandemic levels.
@@ -177,12 +182,14 @@ A comparison of accident frequency relative to the number of commercial flights 
 
 ## • Summary of Findings
 1. Is the frequency of aviation accidents increasing or decreasing over time?
-Ans:
+**Answer:** Aviation accidents have steadily declined from over 1,500 per year in the 1970s to fewer than 500 in recent years. 
 
-2. Human error remains the leading cause of aviation accidents?
-Ans:
+3. Human error remains the leading cause of aviation accidents?
+**Answer:** Human error, especially pilot-related factors, remains the primary cause of aviation accidents, as reflected by frequent mentions of pilot errors and operational mistakes in accident reports. 
 
-3. Has the safety of commercial air travel improved based on fatal accident rates over time?
-Ans:
+5. Has the safety of commercial air travel improved based on fatal accident rates over time?
+**Answer:** The safety of commercial air travel has greatly improved, with fatal accidents sharply declining over time, as shown in Part 3, widening the safety gap with non-commercial flights despite increasing flight and passenger volumes.
+
+In conclusion, this study identified a clear decline in aviation accidents and injury severity over the past five decades, largely driven by advancements in technology, regulations, and safety practices. However, human error—particularly pilot-related factors—remains the primary cause of accidents. While commercial aviation has become significantly safer, non-commercial flight operations and human factors continue to require further attention and improvement.
 
 >>>>>>> master
